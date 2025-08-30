@@ -281,7 +281,7 @@ interface Comment {
 
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/node-youtube-comment-downloader.git
+git clone https://github.com/p697/node-youtube-comment-downloader.git
 cd node-youtube-comment-downloader
 
 # 安装依赖（使用 pnpm）

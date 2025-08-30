@@ -1,6 +1,6 @@
 {
   "name": "youtube-comment-downloader",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Simple script for downloading Youtube comments without using the Youtube API",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -55,7 +55,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/node-youtube-comment-downloader.git"
+    "url": "https://github.com/p697/node-youtube-comment-downloader.git"
   },
   "engines": {
     "node": ">=14.0.0"

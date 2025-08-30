@@ -279,7 +279,7 @@ interface Comment {
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/node-youtube-comment-downloader.git
+git clone https://github.com/p697/node-youtube-comment-downloader.git
 cd node-youtube-comment-downloader
 
 # Install dependencies (using pnpm)
