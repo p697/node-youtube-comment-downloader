@@ -1,12 +1,10 @@
 # youtube-comment-downloader
 
+**English** | [中文](README.zh-CN.md)
+
 Simple script for downloading Youtube comments without using the Youtube API. The output is in line delimited JSON.
 
 Node.js/TypeScript port of [egbertbouman/youtube-comment-downloader](https://github.com/egbertbouman/youtube-comment-downloader) with added proxy support.
-
-## Language
-
-**English** | [中文](README.zh-CN.md)
 
 ## Installation
 
